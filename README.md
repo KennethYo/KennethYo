@@ -3,6 +3,7 @@
 * 😎 Kenneth
 * 🗄 Baidu, Didi, Xiaohongshu, Yiche
 * 💻 Android, Flutter, React-Native
+* 🎯 Unity
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KennethYo&show_icons=true)](https://github.com/KennethYo)
 
